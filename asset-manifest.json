@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PixelArtDemoApp/static/css/main.de8f25bb.css",
+    "main.js": "/PixelArtDemoApp/static/js/main.65448730.js",
+    "static/js/787.283782c2.chunk.js": "/PixelArtDemoApp/static/js/787.283782c2.chunk.js",
+    "static/media/Instruction.png": "/PixelArtDemoApp/static/media/Instruction.d47c38ab1fceb223161a.png",
+    "static/media/InstructionTap.png": "/PixelArtDemoApp/static/media/InstructionTap.f1cfd017c12b50a72d1f.png",
+    "index.html": "/PixelArtDemoApp/index.html",
+    "main.de8f25bb.css.map": "/PixelArtDemoApp/static/css/main.de8f25bb.css.map",
+    "main.65448730.js.map": "/PixelArtDemoApp/static/js/main.65448730.js.map",
+    "787.283782c2.chunk.js.map": "/PixelArtDemoApp/static/js/787.283782c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de8f25bb.css",
+    "static/js/main.65448730.js"
+  ]
+}

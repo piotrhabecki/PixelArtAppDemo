@@ -1,0 +1,94 @@
+.editor {
+  border: 1px solid var(--red);
+  border-radius: 0.25rem;
+  padding: 1rem 4rem 2rem 4rem;
+  margin-top: 2rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.editor h1 {
+  margin-bottom: 1.5rem;
+}
+
+.editor h2 {
+  margin-bottom: 1rem;
+}
+
+.editor .option {
+  display: flex;
+  flex-direction: column;
+}
+
+.panelInput {
+  height: 5rem;
+  width: 5rem;
+  font-size: 2rem;
+  text-align: center;
+  background-color: var(--black);
+  color: var(--white);
+  border: 1px solid var(--grey);
+  border-radius: 0.25rem;
+  margin: 0 1rem 0.5rem 1rem;
+  padding-left: 1rem;
+}
+
+.panelInput:focus {
+  outline: none !important;
+  border-color: var(--red);
+  box-shadow: 0 0 0.5rem var(--grey);
+}
+
+.editor .options {
+  display: flex;
+  margin-bottom: 3rem;
+  justify-content: center;
+}
+
+.button {
+  font-size: 1.25rem;
+  background-color: var(--red);
+  color: var(--white);
+  padding: 1rem 3rem;
+  border-radius: 0.25rem;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+  transition: background-color 300ms ease-in-out;
+  margin-bottom: 2rem;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: transparent;
+  border-color: var(--red);
+}
+
+.editor .circle-picker {
+  margin-bottom: 1.5rem !important;
+}
+
+
+
+/* ================ MEDIA QUERIES (SMALL DEVICES) ================== */
+
+@media screen and (max-width: 600px) {
+  .editor h1 {
+    margin-bottom: .5rem;
+    font-size: 1rem;
+  }
+  
+  .editor h2 {
+    margin-bottom: 0.25rem;
+    font-size: 1rem;
+  }
+
+  .section > h2 {
+    margin-bottom: 0.5rem;
+  }
+
+  .circlePicker {
+    width: 16rem !important
+  }
+}

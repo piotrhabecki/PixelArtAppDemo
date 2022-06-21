@@ -1,0 +1,29 @@
+.drawingPanel {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.pixels {
+  margin-bottom: 2rem;
+}
+
+.button {
+  font-size: 1.25rem;
+  background-color: var(--red);
+  color: var(--white);
+  padding: 0.25rem 1.25rem;
+  border-radius: 0.25rem;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+  transition: background-color 300ms ease-in-out;
+  margin-bottom: 2rem;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: transparent;
+  border-color: var(--red);
+}

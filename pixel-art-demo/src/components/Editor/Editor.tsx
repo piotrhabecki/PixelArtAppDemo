@@ -56,8 +56,8 @@ const Editor = () => {
 
       {!hideDrawingPanel && (
         <CirclePicker
-        className={classes.circlePicker}
-        width="400px"
+          className={classes.circlePicker}
+          width="400px"
           colors={[
             "#4D4D4D",
             "#999999",
@@ -112,6 +112,9 @@ const Editor = () => {
       {!hideDrawingPanel && <ExampleImage />}
 
       {!hideOptionPanel && <Instruction />}
+        <a href="https://testquest.vercel.app/" className={classes.aboutPage}>
+          Test Quest
+        </a>
     </div>
   );
 };

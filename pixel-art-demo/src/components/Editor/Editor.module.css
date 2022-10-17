@@ -69,6 +69,13 @@ button:hover {
   margin-bottom: 1.5rem !important;
 }
 
+.aboutPage {
+  right: 4.5rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: var(--red);
+}
+
 
 
 /* ================ MEDIA QUERIES (SMALL DEVICES) ================== */
@@ -90,5 +97,9 @@ button:hover {
 
   .circlePicker {
     width: 16rem !important
+  }
+
+  .aboutPage {
+    padding-top: 20px;
   }
 }

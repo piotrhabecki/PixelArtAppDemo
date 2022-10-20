@@ -29,6 +29,14 @@ Pick the size of the canvas and start drawing! ✏️
 
 📱 It is responsive, you can run it on your phone as well 📱
 
+## How to run it on your machine
+
+If you want to run the code you just have to:
+
+* Checkout the repository
+* npm install
+* npm start
+
 ## About the author
 
 I am a test engineer who is learning new skills in frontend development. If you want to know more about me or contact me then please visit:

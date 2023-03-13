@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/12681598/197061852-ec4849a5-f051-4d11-b23f-68bcedd80ed9.png)
+![mario](https://user-images.githubusercontent.com/12681598/224678832-8ac18e76-a826-48d3-9fd5-94ce1d842973.gif)
 
 <sub><sup><a target="_blank" href="https://tenor.com/view/mario-gif-21944539">Mario</a> icon by tenor</sup></sub>
 

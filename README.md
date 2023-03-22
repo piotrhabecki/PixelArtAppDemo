@@ -3,7 +3,7 @@
 <div align="center">
 [![mario](https://user-images.githubusercontent.com/12681598/224678832-8ac18e76-a826-48d3-9fd5-94ce1d842973.gif)](https://tenor.com/bEeWl.gif)
 
-<sub><sup><a target="_blank" href="https://tenor.com/pl/view/coffee-blender-coffee-machine-good-morning-gif-16895771">Coffee Machine</a> icon by tenor</sup></sub>
+<sub><sup><a target="_blank" href="https://tenor.com/bEeWl.gif">Mario</a> icon by tenor</sup></sub>
 
 </div>
 

@@ -1,7 +1,7 @@
 # Pixel art demo app
 
 <div align="center">
-![coffee-blender-coffee-machine](https://user-images.githubusercontent.com/12681598/227052629-012cc066-7e28-4dde-b755-b5fed4951409.gif)
+[![mario](https://user-images.githubusercontent.com/12681598/224678832-8ac18e76-a826-48d3-9fd5-94ce1d842973.gif)](https://tenor.com/bEeWl.gif)
 
 <sub><sup><a target="_blank" href="https://tenor.com/pl/view/coffee-blender-coffee-machine-good-morning-gif-16895771">Coffee Machine</a> icon by tenor</sup></sub>
 

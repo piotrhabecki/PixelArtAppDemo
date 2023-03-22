@@ -1,7 +1,8 @@
 # Pixel art demo app
 
 <div align="center">
-[![mario](https://user-images.githubusercontent.com/12681598/224678832-8ac18e76-a826-48d3-9fd5-94ce1d842973.gif)](https://tenor.com/bEeWl.gif)
+
+![mario](https://user-images.githubusercontent.com/12681598/227056125-6f2ac437-c593-428f-abcc-6b45407a3df2.gif)
 
 <sub><sup><a target="_blank" href="https://tenor.com/bEeWl.gif">Mario</a> icon by tenor</sup></sub>
 
